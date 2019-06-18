@@ -1,17 +1,31 @@
 h2{
-                color:goldenrod;
-                background:beige;
-            }
-        #first{
-                color:darkblue;
-               
-            }
-         #second{
-                        color:orangered;}
-        
-            
+color:goldenrod;
+background:beige;            }
 
-            h4{
-                color:indianred;
+#first{
+    color:darkblue;}
+               
+            
+ #second{
+color:orangered;}
+
+h4{
+color:indianred;}
+
+body{ 
+background:#ffe4e1}
+
+#box{ 
+    width:800px;
+     background:beige;
+    margin: 100px auto;
+    padding:40px;
+     }
+#main{
+    width:175px;
+    height:175px;
+    border: 2px solid black;
+    border-radius:175px;
+}
                 
         
